@@ -71,8 +71,8 @@ def export_to_txt(email_counts, output_file="email_counts.txt"):
 
 def main():
     # Replace with your email and app password
-    EMAIL_ADDRESS = "ENTER_EMAIL_ADDRESS"
-    APP_PASSWORD = "ENTER_APP_PASSWORD"
+    EMAIL_ADDRESS = "your_email@gmail.com"
+    APP_PASSWORD = "your_app_password"
     OUTPUT_FILE = "email_counts.txt"
 
     # Connect to email server
