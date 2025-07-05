@@ -15,7 +15,7 @@ This Python script connects to your Gmail account via IMAP, extracts sender emai
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/email-address-counter.git
+   git clone https://github.com/lee-har/inbox-addressor.git
    cd email-address-counter
    ```
 2. Install dependencies:
