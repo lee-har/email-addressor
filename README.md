@@ -1,4 +1,4 @@
-# Email Address Counter
+# Email Inbox Address Counter
 
 This Python script connects to your Gmail account via IMAP, extracts sender email addresses from all emails in your inbox, counts the number of emails per sender, and exports the results to a text file. It includes a progress bar to track processing.
 
