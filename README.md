@@ -1,4 +1,4 @@
-# Email Inbox Address Counter
+# Email Address Counter
 
 This Python script connects to your email account via IMAP, extracts sender email addresses from all emails in your inbox, counts the number of emails per sender, and exports the results to a text file. It includes a progress bar to track processing.
 
@@ -15,7 +15,7 @@ This Python script connects to your email account via IMAP, extracts sender emai
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lee-har/inbox-addressor.git
+   git clone https://github.com/lee-har/email-addressor.git
    cd email-address-counter
    ```
 2. Install dependencies:
